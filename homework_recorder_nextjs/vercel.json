@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd homework_recorder_nextjs && next build",
-  "installCommand": "cd homework_recorder_nextjs && npm install",
-  "outputDirectory": "homework_recorder_nextjs/.next"
-}
